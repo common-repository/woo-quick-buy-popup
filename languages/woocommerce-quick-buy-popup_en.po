@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Quick Buy Popup\n"
+"POT-Creation-Date: 2018-11-18 22:24+0700\n"
+"PO-Revision-Date: 2018-11-18 22:26+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woocommerce-quick-buy-popup.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: woocommerce-quick-buy-popup.php:199
+msgid "Buy information"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:204
+msgid "Mr"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:208
+msgid "Mrs"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:213
+msgid "Full name"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:216
+msgid "Phone number"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:223
+msgid "Email"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:225
+msgid "Email (Not required)"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:247 woocommerce-quick-buy-popup.php:285
+msgid "Address"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:247 woocommerce-quick-buy-popup.php:278 woocommerce-quick-buy-popup.php:285
+msgid "Not required"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:257
+msgid "City"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:265
+msgid "District"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:271
+msgid "Ward"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:278
+msgid "Street"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:291
+msgid "Note (Not required)"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:297
+msgid "Shipping:"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:304
+msgid "Total:"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:310
+msgid "Buy Now"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:682
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:703
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:704
+msgid "Full name is required"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:705
+msgid "Phone number is required"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:706
+msgid "Email is required"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:707
+msgid "District is required"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:708
+msgid "Ward is required"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:709
+msgid "Stress is required"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:731 woocommerce-quick-buy-popup.php:732 woocommerce-quick-buy-popup.php:769
+msgid "Quick Buy Setting"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:761
+#, php-format
+msgid ""
+"<strong>Copyright for automatic update. <a href=\"%s\" target=\"_blank"
+"\">View more information information</a></strong> or the next link "
+"through <a href=\"%s\" target=\"_blank\">facebook</a>"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:772
+msgid "General settings"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:776
+msgid "Enable"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:779 woocommerce-quick-buy-popup.php:790 woocommerce-quick-buy-popup.php:798
+#: woocommerce-quick-buy-popup.php:804 woocommerce-quick-buy-popup.php:810 woocommerce-quick-buy-popup.php:841
+#: woocommerce-quick-buy-popup.php:864 woocommerce-quick-buy-popup.php:888
+msgid "Active"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:782
+msgid "Deactive"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:787
+msgid "Select location"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:791
+msgid "Requires have state"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:796
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:802
+msgid "Hidden Email"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:808
+msgid "Require Email"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:815
+msgid "Require District"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:817 woocommerce-quick-buy-popup.php:823 woocommerce-quick-buy-popup.php:830
+msgid "Require"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:821
+msgid "Require Village"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:828
+msgid "Require Address box"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:835
+msgid "Button quick buy"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:839
+msgid "Displayed in product list"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:845
+msgid "Button text"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:851
+msgid "Button sub text"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:858
+msgid "Popup setting"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:862
+msgid "View product info on mobile"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:868
+msgid "Popup title"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:871
+#, php-format
+msgid "%s to view product title"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:875
+msgid "Popup mess"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:886
+msgid "Go to thank you page"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:892
+msgid "Checkout successfully mess"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:893
+#, php-format
+msgid "Type %%order_id%% to view Order ID"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:904
+msgid "Checkout error message"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:910
+msgid "Out of stock message"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:917
+msgid "License"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:921
+msgid "License key"
+msgstr ""
+
+#: woocommerce-quick-buy-popup.php:924
+#, php-format
+msgid ""
+"<strong>Send email + domain qua <a href=\"%s\" target=\"_blank\">facebook</a> "
+"to receive a license"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Woocommerce Quick Buy Popup"
+msgstr "Woocommerce Quick Buy Popup"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://xsthemes.com/product/woocommerce-quick-buy-popup/"
+msgstr ""
+"http://xsthemes.com/product/woocommerce-quick-buy-popup/"
+
+#. Description of the plugin/theme
+msgid ""
+"Woocommerce Quick Buy Popup is a plugin that allows customers to quickly buy a product anywhere in the product as a Popup"
+msgstr ""
+""
+
+#. Author of the plugin/theme
+msgid "XS Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://xsthemes.com"
+msgstr "http://xsthemes.com"
